@@ -20,13 +20,6 @@ On this GitHub, I showcase a mix of academic and personal projects that reflect 
 
 - **Side Projects**: When I'm not working on professional or academic projects, I enjoy doing a lot of different things for fun.
 
-### 🚀 Skills & Tools
-
-- **Languages**: Python, SQL, R, Java, C++
-- **Tools**: Jupyter, Tableau, Power BI, Git, Docker
-- **Technologies**: Machine Learning, Data Visualization, Business Intelligence, Cloud Computing
-
-
 ### 📫 Let's Connect!
 
 Feel free to explore my projects and repositories, and don’t hesitate to reach out if you’d like to collaborate on something exciting. You can also find me on [LinkedIn](https://www.linkedin.com/in/swarnimmudaliar/) for a more detailed overview of my professional background.
