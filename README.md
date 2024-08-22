@@ -18,7 +18,7 @@ On this GitHub, I showcase a mix of academic and personal projects that reflect 
   
 - **Business Intelligence**: Dashboards, visualizations, and tools aimed at driving strategic business insights.
 
-- **Side Projects**: When I'm not working on professional or academic projects, I enjoy do a lot of different things for fun.
+- **Side Projects**: When I'm not working on professional or academic projects, I enjoy doing a lot of different things for fun.
 
 ### 🚀 Skills & Tools
 
